@@ -7,5 +7,5 @@ const sumOfArr = function(arr) {
     }
     return arr1
     }
-    arr=[2,3,4,5,6,7,9,10]
+    arr=[2,3,4,5,6,7,9,10,11]
     console.log(sumOfArr(arr).join(" "))
